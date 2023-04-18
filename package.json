@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://daswift85.github.io/filmoteka-WaveTech",
+  "homepage": "https://GoitStudentsWorks.github.io/js_eu2_daswift85",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /filmoteka-WaveTech/"
+    "build": "parcel build src/*.html --public-url /js_eu2_daswift85/"
   },
   "repository": {
     "type": "git",
